@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : "Recruiting Artist"
-  avatar           : "/assets/images/bio-photo.jpg"
+  avatar           : #"/assets/images/bio-photo.jpg"
   bio              : "MomentumHR Principal Consultant <br> ex-HYBE Talent Acquistion <br> ex-REED Principal Consultant <br> ex-Jobplanet"
   location         : "South Korea"
   email            : jake@momentum-hr.co.kr
