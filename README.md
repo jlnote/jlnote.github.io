@@ -1,4 +1,4 @@
-# [Minimal Mistakes Jekyll theme](https://mmistakes.github.io/minimal-mistakes/)
+# JL Note
 
 #JL이 생각하는 미래의 Recruiting TREND
 
